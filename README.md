@@ -24,13 +24,13 @@ Must-Watch JavaScript
 1. [**Async JavaScript with Reactive Extensions**](https://www.youtube.com/watch?v=XRYN2xt11Ek&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Matt Marenghi, Netflix JavaScript Talks
 1. [**Transitioning Groupon to NodeJS**](https://www.youtube.com/watch?v=TWVblTpUlxM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sean McCullough, EmpireJS
 1. [**Building Modular Web Applications: How To Build a Good Component**](https://www.youtube.com/watch?v=nl2vMiREK9o&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Angelina Fabbro, jQuery Conference Portland
-1. [**The Web Experience in the Autistic Spectrum**](https://www.youtube.com/watch?v=7nnAYB1mb9E&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Natalia Berdys, JSConf.EU 
+1. [**The Web Experience in the Autistic Spectrum**](https://www.youtube.com/watch?v=7nnAYB1mb9E&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Natalia Berdys, JSConf.EU
 1. [**Develop High Performance Sites and Apps with JavaScript and HTML5**](https://www.youtube.com/watch?v=oe_hV449viI&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Dr. Doris Chen, HTML5DevConf Meetup
 1. [**Building Reflow**](https://www.youtube.com/watch?v=CpG6Ap7qhPw&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Kristofer Joseph, BackboneConf
 1. [**Levelling Up in AngularJS**](https://www.youtube.com/watch?v=9TylaL_cRFA&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi):  Alicia Liu, HTML5DevConf
 
 ###2012
-1. [**Inspector Web and the Mystery of the Shadow DOM**](https://www.youtube.com/watch?v=JNjnv-Gcpnw&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Angelina Fabbro, JSConf
+1. [**Inspector Web and the Mystery of the Shadow DOM**](https://www.youtube.com/watch?v=JNjnv-Gcpnw&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Angelina Fabbro, JSConfEU
 
 ###2011
-1. [**Become a Javascript Console Power-User**](https://www.youtube.com/watch?v=4mf_yNLlgic&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Paul Irish 
+1. [**Become a Javascript Console Power-User**](https://www.youtube.com/watch?v=4mf_yNLlgic&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Paul Irish
