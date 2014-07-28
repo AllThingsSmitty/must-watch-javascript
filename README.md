@@ -25,7 +25,7 @@ Must-Watch JavaScript
 1. [**Async JavaScript with Reactive Extensions**](https://www.youtube.com/watch?v=XRYN2xt11Ek&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Matt Marenghi, Netflix JavaScript Talks
 1. [**Transitioning Groupon to NodeJS**](https://www.youtube.com/watch?v=TWVblTpUlxM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sean McCullough, EmpireJS
 1. [**Building Modular Web Applications: How To Build a Good Component**](https://www.youtube.com/watch?v=nl2vMiREK9o&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Angelina Fabbro, jQuery Conference Portland
-1.[**Making JS More Learnable**](https://www.youtube.com/watch?v=4JdS5RHGroQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Pamela Fox, dotJS
+1. [**Making JS More Learnable**](https://www.youtube.com/watch?v=4JdS5RHGroQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Pamela Fox, dotJS
 1. [**The Web Experience in the Autistic Spectrum**](https://www.youtube.com/watch?v=7nnAYB1mb9E&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Natalia Berdys, JSConf.EU
 1. [**Return of Inspector Web: Web Components a Year Later**](https://vimeo.com/78899868): Angelina Fabbro, Fronteers
 1. [**Develop High Performance Sites and Apps with JavaScript and HTML5**](https://www.youtube.com/watch?v=oe_hV449viI&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Dr. Doris Chen, HTML5DevConf Meetup
