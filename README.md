@@ -16,6 +16,7 @@ Must-Watch JavaScript
 1. [**JavaScript in Your Native Mobile Apps**](https://www.youtube.com/watch?v=5LUkHss6CAw&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Allen Pike, JSConf.EU
 1. [**JavaScript Masterclass**](https://www.youtube.com/watch?v=v0TFmdO4ZP0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi&index=4): Angelina Fabbro, JSConf.US
 1. [**A Comparison of the Two-Way Binding in AngularJS, EmberJS and KnockoutJS**](https://www.youtube.com/watch?v=mVjpwia1YN4&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Marius Gundersen, JSConf.EU
+1. [**Hacker Way: Rethinking Web App Development at Facebook**](https://www.youtube.com/watch?v=nYkdrAPrdcw&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Tom Occhino, Jing Chen, and Pete Hunt, F8
 1. [**JavaScript Authoring Tooling**](https://www.youtube.com/watch?v=bqfoYaKCYUI&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Paul Irish, FluentConf
 1. [**Front-End Tools for the Young Developer**](https://www.youtube.com/watch?v=5_nt5qV15po&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Christian Vuerings, SF HTML5 User Group
 1. [**Rethinking Best Practices**](https://www.youtube.com/watch?v=DgVS-zXgMTk&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi&index=10): Pete Hunt, JSConf.Asia
@@ -24,6 +25,7 @@ Must-Watch JavaScript
 1. [**Async JavaScript with Reactive Extensions**](https://www.youtube.com/watch?v=XRYN2xt11Ek&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Matt Marenghi, Netflix JavaScript Talks
 1. [**Transitioning Groupon to NodeJS**](https://www.youtube.com/watch?v=TWVblTpUlxM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sean McCullough, EmpireJS
 1. [**Building Modular Web Applications: How To Build a Good Component**](https://www.youtube.com/watch?v=nl2vMiREK9o&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Angelina Fabbro, jQuery Conference Portland
+1.[**Making JS More Learnable**](https://www.youtube.com/watch?v=4JdS5RHGroQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Pamela Fox, dotJS
 1. [**The Web Experience in the Autistic Spectrum**](https://www.youtube.com/watch?v=7nnAYB1mb9E&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Natalia Berdys, JSConf.EU
 1. [**Return of Inspector Web: Web Components a Year Later**](https://vimeo.com/78899868): Angelina Fabbro, Fronteers
 1. [**Develop High Performance Sites and Apps with JavaScript and HTML5**](https://www.youtube.com/watch?v=oe_hV449viI&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Dr. Doris Chen, HTML5DevConf Meetup
