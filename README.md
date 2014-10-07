@@ -3,14 +3,12 @@ Must-Watch JavaScript
 
 > A useful list of must-watch videos about JavaScript.
 
-[![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/AllThingsSmitty) [![](http://img.shields.io/badge/follow%20on-Google%2B-red.svg)] (http://google.com/+MattSmithYo)
-
-
 ###2014
 1. [**Using AngularJS to Create iPhone & Android Applications with PhoneGap**](https://www.youtube.com/watch?v=wVntVkRLR3M&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Daniel Zen, ng-conf `21:34`
 1. [**User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns): Mark DiMarco, JSConf.US `27:41`
 1. [**End to End Angular Testing with Protractor**](https://www.youtube.com/watch?v=aQipuiTcn3U&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Julie Ralph, ng-conf `18:46`
 1. [**Enemy of the State**](https://www.youtube.com/watch?v=3ZLlRQJp5Fg&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Amy Palamountain, Forward JS `32:40`
+1. [**Mary Live-Codes a JavaScript Game from Scratch**](https://vimeo.com/105955605): Mary Rose Cook, Front-Trends `32:16`
 1. [**Building Realtime Apps with Firebase and Angular**](https://www.youtube.com/watch?v=e4yUTkva_FM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Anant Narayanan, ng-conf `21:08`
 
 ###2013
