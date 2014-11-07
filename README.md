@@ -9,6 +9,8 @@ Must-Watch JavaScript
 1. [**End to End Angular Testing with Protractor**](https://www.youtube.com/watch?v=aQipuiTcn3U&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Julie Ralph, ng-conf `18:46`
 1. [**Enemy of the State**](https://www.youtube.com/watch?v=3ZLlRQJp5Fg&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Amy Palamountain, Forward JS `32:40`
 1. [**Mary Live-Codes a JavaScript Game from Scratch**](https://vimeo.com/105955605): Mary Rose Cook, Front-Trends `32:16`
+1. [**Unorthodox Performance**](https://www.youtube.com/watch?v=NthmeLEhDDM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): John-David Dalton, ForwardJS `43:39`
+1. [**What the Heck Is the Event Loop Anyway?**](https://www.youtube.com/watch?v=8aGhZQkoFbQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Philip Roberts, JSConf.EU `26:53`
 1. [**Building Realtime Apps with Firebase and Angular**](https://www.youtube.com/watch?v=e4yUTkva_FM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Anant Narayanan, ng-conf `21:08`
 
 ###2013
