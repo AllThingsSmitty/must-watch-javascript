@@ -4,13 +4,14 @@ Must-Watch JavaScript
 > A useful list of must-watch videos about JavaScript.
 
 ###2014
-1. [**Using AngularJS to Create iPhone & Android Applications with PhoneGap**](https://www.youtube.com/watch?v=wVntVkRLR3M&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Daniel Zen, ng-conf `21:34`
-1. [**User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns): Mark DiMarco, JSConf.US `27:41`
-1. [**End to End Angular Testing with Protractor**](https://www.youtube.com/watch?v=aQipuiTcn3U&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Julie Ralph, ng-conf `18:46`
 1. [**Enemy of the State**](https://www.youtube.com/watch?v=3ZLlRQJp5Fg&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Amy Palamountain, Forward JS `32:40`
 1. [**Mary Live-Codes a JavaScript Game from Scratch**](https://vimeo.com/105955605): Mary Rose Cook, Front-Trends `32:16`
 1. [**Unorthodox Performance**](https://www.youtube.com/watch?v=NthmeLEhDDM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): John-David Dalton, ForwardJS `43:39`
 1. [**What the Heck Is the Event Loop Anyway?**](https://www.youtube.com/watch?v=8aGhZQkoFbQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Philip Roberts, JSConf.EU `26:53`
+1. [**Using AngularJS to Create iPhone & Android Applications with PhoneGap**](https://www.youtube.com/watch?v=wVntVkRLR3M&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Daniel Zen, ng-conf `21:34`
+1. [**User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns): Mark DiMarco, JSConf.US `27:41`
+1. [**End to End Angular Testing with Protractor**](https://www.youtube.com/watch?v=aQipuiTcn3U&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Julie Ralph, ng-conf `18:46`
+1. [**Async JavaScript at Netflix**](https://www.youtube.com/watch?v=XRYN2xt11Ek&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Jafar Husain, Netflix JavaScript Talks `28:38`
 1. [**Building Realtime Apps with Firebase and Angular**](https://www.youtube.com/watch?v=e4yUTkva_FM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Anant Narayanan, ng-conf `21:08`
 
 ###2013
@@ -27,7 +28,6 @@ Must-Watch JavaScript
 1. [**A Tale of Two MVC's**](https://www.youtube.com/watch?v=s1dhXamEAKQ): Yehuda Katz, Golden Gate Ruby Conference `31:06`
 1. [**Building with Web Components Using X-Tags**](https://www.youtube.com/watch?v=dW2ib0bkxGQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Remy Sharp, Full Frontal `32:53`
 1. [**Righteous Javascript, Dude!**](https://www.youtube.com/watch?v=2Hc7DBihkh4&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Zach Bruggerman, Cascadia JS `18:15`
-1. [**Async JavaScript with Reactive Extensions**](https://www.youtube.com/watch?v=XRYN2xt11Ek&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Matt Marenghi, Netflix JavaScript Talks `28:38`
 1. [**Transitioning Groupon to NodeJS**](https://www.youtube.com/watch?v=TWVblTpUlxM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sean McCullough, EmpireJS `28:23`
 1. [**Building Modular Web Applications: How To Build a Good Component**](https://www.youtube.com/watch?v=nl2vMiREK9o&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Angelina Fabbro, jQuery Conference Portland `35:02`
 1. [**Making JS More Learnable**](https://www.youtube.com/watch?v=4JdS5RHGroQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Pamela Fox, dotJS `28:46`
