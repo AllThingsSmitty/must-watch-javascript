@@ -20,6 +20,7 @@ Must-Watch JavaScript
 1. [**JavaScript Masterclass**](https://www.youtube.com/watch?v=v0TFmdO4ZP0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi&index=4): Angelina Fabbro, JSConf.US `22:33`
 1. [**A Comparison of the Two-Way Binding in AngularJS, EmberJS and KnockoutJS**](https://www.youtube.com/watch?v=mVjpwia1YN4&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Marius Gundersen, JSConf.EU `19:16`
 1. [**Hacker Way: Rethinking Web App Development at Facebook**](https://www.youtube.com/watch?v=nYkdrAPrdcw&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Tom Occhino, Jing Chen, and Pete Hunt, F8 `44:35`
+1. [**Promises and Generators: Control Flow Utopia**](https://www.youtube.com/watch?v=qbKWsbJ76-slist=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Forbes Lindesay, JSConf.EU `31:26`
 1. [**How to Rewrite Your JS App (at Least) 10 Times**](https://vimeo.com/77905680): Garann Means, Fronteers `47:45`
 1. [**Front-End Development in Node.js**](https://www.youtube.com/watch?v=icNHLlRazds&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Raquel V&eacute;lez, jQuery Conference Portland `34:01`
 1. [**JavaScript Authoring Tooling**](https://www.youtube.com/watch?v=bqfoYaKCYUI&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Paul Irish, FluentConf `20:10`
