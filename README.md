@@ -8,6 +8,7 @@ Must-Watch JavaScript
 1. [**Mary Live-Codes a JavaScript Game from Scratch**](https://vimeo.com/105955605): Mary Rose Cook, Front-Trends `32:16`
 1. [**Unorthodox Performance**](https://www.youtube.com/watch?v=NthmeLEhDDM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): John-David Dalton, ForwardJS `43:39`
 1. [**What the Heck Is the Event Loop Anyway?**](https://www.youtube.com/watch?v=8aGhZQkoFbQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Philip Roberts, JSConf.EU `26:53`
+1. [**JavaScript for Everybody**](https://www.youtube.com/watch?v=04DOp1F9Od4&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Marcy Sutton, JSConf.EU `28:59`
 1. [**Using AngularJS to Create iPhone & Android Applications with PhoneGap**](https://www.youtube.com/watch?v=wVntVkRLR3M&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Daniel Zen, ng-conf `21:34`
 1. [**User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns): Mark DiMarco, JSConf.US `27:41`
 1. [**End to End Angular Testing with Protractor**](https://www.youtube.com/watch?v=aQipuiTcn3U&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Julie Ralph, ng-conf `18:46`
