@@ -18,7 +18,7 @@ Must-Watch JavaScript
 ###2013
 1. [**A JavaScript Web App Deconstructed**](https://www.youtube.com/watch?v=G6yLniGWhSE&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Alex MacCaw, JSConf.Asia `36:24`
 1. [**JavaScript in Your Native Mobile Apps**](https://www.youtube.com/watch?v=5LUkHss6CAw&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Allen Pike, JSConf.EU `25:47`
-1. [**JavaScript Masterclass**](https://www.youtube.com/watch?v=v0TFmdO4ZP0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi&index=4): Angelina Fabbro, JSConf.US `22:33`
+1. [**JavaScript Masterclass**](https://www.youtube.com/watch?v=v0TFmdO4ZP0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Angelina Fabbro, JSConf.US `22:33`
 1. [**A Comparison of the Two-Way Binding in AngularJS, EmberJS and KnockoutJS**](https://www.youtube.com/watch?v=mVjpwia1YN4&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Marius Gundersen, JSConf.EU `19:16`
 1. [**Hacker Way: Rethinking Web App Development at Facebook**](https://www.youtube.com/watch?v=nYkdrAPrdcw&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Tom Occhino, Jing Chen, and Pete Hunt, F8 `44:35`
 1. [**Promises and Generators: Control Flow Utopia**](https://www.youtube.com/watch?v=qbKWsbJ76-slist=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Forbes Lindesay, JSConf.EU `31:26`
@@ -26,7 +26,7 @@ Must-Watch JavaScript
 1. [**Front-End Development in Node.js**](https://www.youtube.com/watch?v=icNHLlRazds&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Raquel V&eacute;lez, jQuery Conference Portland `34:01`
 1. [**JavaScript Authoring Tooling**](https://www.youtube.com/watch?v=bqfoYaKCYUI&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Paul Irish, FluentConf `20:10`
 1. [**Front-End Tools for the Young Developer**](https://www.youtube.com/watch?v=5_nt5qV15po&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Christian Vuerings, SF HTML5 User Group `14:16`
-1. [**Rethinking Best Practices**](https://www.youtube.com/watch?v=DgVS-zXgMTk&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi&index=10): Pete Hunt, JSConf.Asia `40:57`
+1. [**Rethinking Best Practices**](https://www.youtube.com/watch?v=DgVS-zXgMTk&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Pete Hunt, JSConf.Asia `40:57`
 1. [**A Tale of Two MVC's**](https://www.youtube.com/watch?v=s1dhXamEAKQ): Yehuda Katz, Golden Gate Ruby Conference `31:06`
 1. [**Building with Web Components Using X-Tags**](https://www.youtube.com/watch?v=dW2ib0bkxGQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Remy Sharp, Full Frontal `32:53`
 1. [**Righteous Javascript, Dude!**](https://www.youtube.com/watch?v=2Hc7DBihkh4&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Zach Bruggerman, Cascadia JS `18:15`
