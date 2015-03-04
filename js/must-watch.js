@@ -1,4 +1,5 @@
 // Must-Watch JavaScript
-"use scrict";
-
-window.location = "https://github.com/AllThingsSmitty/must-watch-javascript";
+function watch() {
+  'use strict';
+  window.location('https://github.com/AllThingsSmitty/must-watch-javascript');
+}
