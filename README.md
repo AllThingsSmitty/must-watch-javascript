@@ -7,7 +7,7 @@ Must-Watch JavaScript
 1. [**JavaScript in 2015**](https://www.youtube.com/watch?v=iukBMY4apvI&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Glen Maddern (screencast) `10:32`
 
 ###2014
-1. [**Enemy of the State**](https://www.youtube.com/watch?v=3ZLlRQJp5Fg&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Amy Palamountain, Forward JS `32:40`a
+1. [**Enemy of the State**](https://www.youtube.com/watch?v=3ZLlRQJp5Fg&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Amy Palamountain, Forward JS `32:40`
 1. [**Mary Live-Codes a JavaScript Game from Scratch**](https://vimeo.com/105955605): Mary Rose Cook, Front-Trends `32:16`
 1. [**Unorthodox Performance**](https://www.youtube.com/watch?v=NthmeLEhDDM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): John-David Dalton, ForwardJS `43:39`
 1. [**What the Heck Is the Event Loop Anyway?**](https://www.youtube.com/watch?v=8aGhZQkoFbQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Philip Roberts, JSConf.EU `26:53`
