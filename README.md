@@ -5,6 +5,7 @@ Must-Watch JavaScript
 
 ###2015
 1. [**JavaScript in 2015**](https://www.youtube.com/watch?v=iukBMY4apvI&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Glen Maddern (screencast) `10:32`
+1. [**What the... JavaScript?**](https://www.youtube.com/watch?v=2pL28CcEijU&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Kyle Simpson, ForwardJS `38:16`
 
 ###2014
 1. [**Enemy of the State**](https://www.youtube.com/watch?v=3ZLlRQJp5Fg&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Amy Palamountain, Forward JS `32:40`
