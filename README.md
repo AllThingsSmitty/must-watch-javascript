@@ -16,6 +16,7 @@ Must-Watch JavaScript
 1. [**JavaScript for Everybody**](https://www.youtube.com/watch?v=04DOp1F9Od4&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Marcy Sutton, JSConf.EU `28:59`
 1. [**JavaScript ♥ Unicode**](https://www.youtube.com/watch?v=zi0w7J7MCrk&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Mathias Bynens, JSConf.EU `25:41`
 1. [**Using AngularJS to Create iPhone & Android Applications with PhoneGap**](https://www.youtube.com/watch?v=wVntVkRLR3M&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Daniel Zen, ng-conf `21:34`
+1. [**Virtual Machines, JavaScript and Assembler**](https://www.youtube.com/watch?v=UzyoT4DziQ4&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Scott Hanselman, FluentConf `25:56`
 1. [**User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns): Mark DiMarco, JSConf.US `27:41`
 1. [**End to End Angular Testing with Protractor**](https://www.youtube.com/watch?v=aQipuiTcn3U&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Julie Ralph, ng-conf `18:46`
 1. [**Async JavaScript at Netflix**](https://www.youtube.com/watch?v=XRYN2xt11Ek&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Jafar Husain, Netflix JavaScript Talks `28:38`
