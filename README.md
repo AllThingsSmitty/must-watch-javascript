@@ -4,11 +4,14 @@ Must-Watch JavaScript
 > A useful list of must-watch videos about JavaScript.
 
 ###2015
+
 1. [**JavaScript in 2015**](https://www.youtube.com/watch?v=iukBMY4apvI&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Glen Maddern (screencast) `10:32`
 1. [**Angular + React = Speed**](https://www.youtube.com/watch?v=XQM0K6YG18s&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Dave Smith, ng-conf `19:26`
 1. [**What the... JavaScript?**](https://www.youtube.com/watch?v=2pL28CcEijU&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Kyle Simpson, ForwardJS `38:16`
 
+
 ###2014
+
 1. [**Enemy of the State**](https://www.youtube.com/watch?v=3ZLlRQJp5Fg&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Amy Palamountain, Forward JS `32:40`
 1. [**Mary Live-Codes a JavaScript Game from Scratch**](https://vimeo.com/105955605): Mary Rose Cook, Front-Trends `32:16`
 1. [**Unorthodox Performance**](https://www.youtube.com/watch?v=NthmeLEhDDM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): John-David Dalton, ForwardJS `43:39`
@@ -23,7 +26,9 @@ Must-Watch JavaScript
 1. [**Async JavaScript at Netflix**](https://www.youtube.com/watch?v=XRYN2xt11Ek&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Jafar Husain, Netflix JavaScript Talks `28:38`
 1. [**Building Realtime Apps with Firebase and Angular**](https://www.youtube.com/watch?v=e4yUTkva_FM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Anant Narayanan, ng-conf `21:08`
 
+
 ###2013
+
 1. [**A JavaScript Web App Deconstructed**](https://www.youtube.com/watch?v=G6yLniGWhSE&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Alex MacCaw, JSConf.Asia `36:24`
 1. [**JavaScript in Your Native Mobile Apps**](https://www.youtube.com/watch?v=5LUkHss6CAw&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Allen Pike, JSConf.EU `25:47`
 1. [**JavaScript Masterclass**](https://www.youtube.com/watch?v=v0TFmdO4ZP0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Angelina Fabbro, JSConf.US `22:33`
@@ -47,7 +52,9 @@ Must-Watch JavaScript
 1. [**Building Reflow**](https://www.youtube.com/watch?v=CpG6Ap7qhPw&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Kristofer Joseph, BackboneConf `45:41`
 1. [**Levelling Up in AngularJS**](https://www.youtube.com/watch?v=9TylaL_cRFA&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi):  Alicia Liu, HTML5DevConf `40:31`
 
+
 ###2012
+
 1. [**A Novel, Efficient Approach to JavaScript Loading**](https://www.youtube.com/watch?v=mGENRKrdoGY&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Malte Ubl and John Hjelmstad, JSConf.EU `26:36`
 1. [**To Hell with jQuery**](https://www.youtube.com/watch?v=3D1WeSCSkPQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Karolina Szczur, JSConf.EU `20:00`
 1. [**JavaScript Development Workflow of 2013**](https://www.youtube.com/watch?v=f7AU2Ozu8eo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Paul Irish, FluentConf `24:29`
@@ -56,5 +63,7 @@ Must-Watch JavaScript
 1. [**Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Nicholas Zakas, FluentConf `47:04`
 1. [**Client Side Internationalization**](https://www.youtube.com/watch?v=uXS_-JRsB8M&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Alex Sexton, JSConf.EU `24:08`
 
+
 ###2011
+
 1. [**Become a Javascript Console Power-User**](https://www.youtube.com/watch?v=4mf_yNLlgic&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Paul Irish `7:29`
