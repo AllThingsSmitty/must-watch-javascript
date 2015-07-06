@@ -12,6 +12,7 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**Angular + React = Speed**](https://www.youtube.com/watch?v=XQM0K6YG18s&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Dave Smith, ng-conf `19:26`
 1. [**What the... JavaScript?**](https://www.youtube.com/watch?v=2pL28CcEijU&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Kyle Simpson, ForwardJS `38:16`
 1. [**Parallelism Experiments in JavaScript**](https://www.youtube.com/watch?v=h_M_uscOKJM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Naveed Ihsanullah, JSConf.US `32:39`
+1. [**JavaScript Transformation**](https://www.youtube.com/watch?v=rKuNbEwoQfQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sebastian McKenzie, JSConf.US `20:23`
 
 
 ###2014
