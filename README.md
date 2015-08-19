@@ -2,7 +2,7 @@
 
 This is a collection of well-received talks about JavaScript, covering topics such as ES6, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
 
-> Like CSS? Check out [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)! For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
+> **Like CSS? Check out [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
 
 ###2015
@@ -12,6 +12,7 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**What the... JavaScript?**](https://www.youtube.com/watch?v=2pL28CcEijU&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Kyle Simpson, ForwardJS `38:16`
 1. [**Parallelism Experiments in JavaScript**](https://www.youtube.com/watch?v=h_M_uscOKJM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Naveed Ihsanullah, JSConf.US `32:39`
 1. [**Dirty Performance Secrets of HTML5**](https://www.youtube.com/watch?v=t8x40JXUeWA&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Andreas Gal, FluentConf `14:15`
+1. [**JavaScript State of the Union**](https://www.youtube.com/watch?v=8G2SMVIUNNk&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Geoff Schmidt, Meteor Devshop SF `48:47`
 1. [**JavaScript Transformation**](https://www.youtube.com/watch?v=rKuNbEwoQfQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sebastian McKenzie, JSConf.US `20:23`
 
 
