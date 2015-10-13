@@ -14,6 +14,7 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**Dirty Performance Secrets of HTML5**](https://www.youtube.com/watch?v=t8x40JXUeWA&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Andreas Gal, FluentConf `14:15`
 1. [**JavaScript State of the Union**](https://www.youtube.com/watch?v=8G2SMVIUNNk&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Geoff Schmidt, Meteor Devshop SF `48:47`
 1. [**JavaScript Transformation**](https://www.youtube.com/watch?v=rKuNbEwoQfQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sebastian McKenzie, JSConf.US `20:23`
+1. [**Live React: Hot Reloading with Time Travel**](https://www.youtube.com/watch?v=xsSnOQynTHs&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Dan Abramov, ReactEurope `30:40`
 
 
 ###2014
@@ -68,8 +69,3 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**Inspector Web and the Mystery of the Shadow DOM**](https://www.youtube.com/watch?v=JNjnv-Gcpnw&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Angelina Fabbro, JSConfEU `28:42`
 1. [**Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Nicholas Zakas, FluentConf `47:04`
 1. [**Client Side Internationalization**](https://www.youtube.com/watch?v=uXS_-JRsB8M&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Alex Sexton, JSConf.EU `24:08`
-
-
-###2011
-
-1. [**Become a Javascript Console Power-User**](https://www.youtube.com/watch?v=4mf_yNLlgic&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Paul Irish `7:29`
