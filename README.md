@@ -1,11 +1,11 @@
-#Must-Watch JavaScript
+# Must-Watch JavaScript
 
 This is a collection of well-received talks about JavaScript, covering topics such as ES6, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
 
 > **Like CSS? Check out [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
 
-###2015
+### 2015
 
 1. [**JavaScript in 2015**](https://www.youtube.com/watch?v=iukBMY4apvI&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Glen Maddern (screencast) `10:32`
 1. [**Angular + React = Speed**](https://www.youtube.com/watch?v=XQM0K6YG18s&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Dave Smith, ng-conf `19:26`
@@ -13,11 +13,12 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**Parallelism Experiments in JavaScript**](https://www.youtube.com/watch?v=h_M_uscOKJM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Naveed Ihsanullah, JSConf.US `32:39`
 1. [**Dirty Performance Secrets of HTML5**](https://www.youtube.com/watch?v=t8x40JXUeWA&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Andreas Gal, FluentConf `14:15`
 1. [**JavaScript State of the Union**](https://www.youtube.com/watch?v=8G2SMVIUNNk&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Geoff Schmidt, Meteor Devshop SF `48:47`
-1. [**JavaScript Transformation**](https://www.youtube.com/watch?v=rKuNbEwoQfQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sebastian McKenzie, JSConf.US `20:23`
+1. [**Async Programming in ES7**](https://www.youtube.com/watch?v=lil4YCCXRYc&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Jafar Husain, JSConf.US `35:56`
 1. [**Live React: Hot Reloading with Time Travel**](https://www.youtube.com/watch?v=xsSnOQynTHs&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Dan Abramov, ReactEurope `30:40`
+1. [**JavaScript Transformation**](https://www.youtube.com/watch?v=rKuNbEwoQfQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sebastian McKenzie, JSConf.US `20:23`
 
 
-###2014
+### 2014
 
 1. [**Enemy of the State**](https://www.youtube.com/watch?v=3ZLlRQJp5Fg&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Amy Palamountain, Forward JS `32:40`
 1. [**Mary Live-Codes a JavaScript Game from Scratch**](https://vimeo.com/105955605): Mary Rose Cook, Front-Trends `32:16`
@@ -34,7 +35,7 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**Building Realtime Apps with Firebase and Angular**](https://www.youtube.com/watch?v=e4yUTkva_FM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Anant Narayanan, ng-conf `21:08`
 
 
-###2013
+### 2013
 
 1. [**A JavaScript Web App Deconstructed**](https://www.youtube.com/watch?v=G6yLniGWhSE&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Alex MacCaw, JSConf.Asia `36:24`
 1. [**JavaScript in Your Native Mobile Apps**](https://www.youtube.com/watch?v=5LUkHss6CAw&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Allen Pike, JSConf.EU `25:47`
@@ -44,7 +45,6 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**Promises and Generators: Control Flow Utopia**](https://www.youtube.com/watch?v=qbKWsbJ76-slist=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Forbes Lindesay, JSConf.EU `31:26`
 1. [**How to Rewrite Your JS App (at Least) 10 Times**](https://vimeo.com/77905680): Garann Means, Fronteers `47:45`
 1. [**Front-End Development in Node.js**](https://www.youtube.com/watch?v=icNHLlRazds&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Raquel V&eacute;lez, jQuery Conference Portland `34:01`
-1. [**JavaScript Authoring Tooling**](https://www.youtube.com/watch?v=bqfoYaKCYUI&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Paul Irish, FluentConf `20:10`
 1. [**Front-End Tools for the Young Developer**](https://www.youtube.com/watch?v=5_nt5qV15po&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Christian Vuerings, SF HTML5 User Group `14:16`
 1. [**Rethinking Best Practices**](https://www.youtube.com/watch?v=DgVS-zXgMTk&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Pete Hunt, JSConf.Asia `40:57`
 1. [**A Tale of Two MVC's**](https://www.youtube.com/watch?v=s1dhXamEAKQ): Yehuda Katz, Golden Gate Ruby Conference `31:06`
@@ -60,11 +60,10 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**Levelling Up in AngularJS**](https://www.youtube.com/watch?v=9TylaL_cRFA&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi):  Alicia Liu, HTML5DevConf `40:31`
 
 
-###2012
+### 2012
 
 1. [**A Novel, Efficient Approach to JavaScript Loading**](https://www.youtube.com/watch?v=mGENRKrdoGY&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Malte Ubl and John Hjelmstad, JSConf.EU `26:36`
 1. [**To Hell with jQuery**](https://www.youtube.com/watch?v=3D1WeSCSkPQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Karolina Szczur, JSConf.EU `20:00`
-1. [**JavaScript Development Workflow of 2013**](https://www.youtube.com/watch?v=f7AU2Ozu8eo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Paul Irish, FluentConf `24:29`
 1. [**Is Node.js Better?**](https://www.youtube.com/watch?v=C5fa1LZYodQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Brian Ford, JSConf.US `41:42`
 1. [**Inspector Web and the Mystery of the Shadow DOM**](https://www.youtube.com/watch?v=JNjnv-Gcpnw&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Angelina Fabbro, JSConfEU `28:42`
 1. [**Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Nicholas Zakas, FluentConf `47:04`
