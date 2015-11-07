@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300" src="https://rawgit.com/AllThingsSmitty/must-watch-javascript/master/media/logo.svg" alt="TV icon">
+</p>
+
 # Must-Watch JavaScript
 
 This is a collection of well-received talks about JavaScript, covering topics such as ES6, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
