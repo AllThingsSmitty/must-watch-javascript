@@ -17,6 +17,7 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**Parallelism Experiments in JavaScript**](https://www.youtube.com/watch?v=h_M_uscOKJM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Naveed Ihsanullah, JSConf.US `32:39`
 1. [**Dirty Performance Secrets of HTML5**](https://www.youtube.com/watch?v=t8x40JXUeWA&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Andreas Gal, FluentConf `14:15`
 1. [**JavaScript State of the Union**](https://www.youtube.com/watch?v=8G2SMVIUNNk&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Geoff Schmidt, Meteor Devshop SF `48:47`
+1. [**You Should Use &lt;Insert Library/Framework&gt;, It's the Bestestest!**](https://www.youtube.com/watch?v=_yCz1TA0EL4&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Paul Lewis, Full Frontal `33:31`
 1. [**Async Programming in ES7**](https://www.youtube.com/watch?v=lil4YCCXRYc&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Jafar Husain, JSConf.US `35:56`
 1. [**Live React: Hot Reloading with Time Travel**](https://www.youtube.com/watch?v=xsSnOQynTHs&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Dan Abramov, ReactEurope `30:40`
 1. [**JavaScript Transformation**](https://www.youtube.com/watch?v=rKuNbEwoQfQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sebastian McKenzie, JSConf.US `20:23`
