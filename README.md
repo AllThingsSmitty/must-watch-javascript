@@ -15,6 +15,7 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**Angular + React = Speed**](https://www.youtube.com/watch?v=XQM0K6YG18s&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Dave Smith, ng-conf `19:26`
 1. [**Parallelism Experiments in JavaScript**](https://www.youtube.com/watch?v=h_M_uscOKJM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Naveed Ihsanullah, JSConf.US `32:39`
 1. [**Eliminate JavaScript Code Smells**](https://www.youtube.com/watch?v=JVlfj7mQZPo&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Elijah Manor, FluentConf `29:15`
+1. [**Pocket-Sized JS**](https://www.youtube.com/watch?v=okk0BGV9oY0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Henrik Joreteg, dotJS `18:44`
 1. [**What the... JavaScript?**](https://www.youtube.com/watch?v=2pL28CcEijU&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Kyle Simpson, ForwardJS `38:16`
 1. [**Real World jQuery**](http://jqueryuk.com/2015/videos.php?s=real-world-jquery): Ben Foxall, jQuery UK `26:45`
 1. [**JavaScript State of the Union**](https://www.youtube.com/watch?v=8G2SMVIUNNk&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Geoff Schmidt, Meteor Devshop SF `48:47`
