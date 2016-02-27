@@ -9,6 +9,11 @@ This is a collection of well-received talks about JavaScript, covering topics su
 > **Like CSS? Check out [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
 
+* [Contribution Guidelines](CONTRIBUTING.md)
+
+-
+
+
 ### 2015
 
 1. [**JavaScript in 2015**](https://www.youtube.com/watch?v=iukBMY4apvI&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Glen Maddern (screencast) `10:32`
