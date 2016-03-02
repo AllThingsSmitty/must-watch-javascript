@@ -22,7 +22,7 @@ Please ensure your pull request adheres to the following guidelines:
     - The duration should be surrounded by backticks (&#96;), e.g., &#96;28:30&#96;.
 * Use the correct title of the presentation (don't rely on the title uploaded to YouTube, Vimeo, et al.).
 * Use [title-casing](http://titlecapitalization.com). 
-* Add suggestions to the end of the appropriate year block; if re-ordering is needed the repository owner will make a final determination.
+* Add suggestions to the end of the appropriate year block; if re-ordering is needed project maintainer will make a final determination.
 
 Thank you for your suggestions!
 
