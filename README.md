@@ -14,6 +14,12 @@ This is a collection of well-received talks about JavaScript, covering topics su
 -
 
 
+### 2016
+
+1. [**React.js for TV UIs**](https://www.youtube.com/watch?v=5sETJs2_jwo): Steve McGuire, Netflix JavaScript Talks `35:02`
+1. [**The Rise of Async JavaScript**](https://www.youtube.com/watch?v=QtgR94Q2pt4&index=51&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Jeremy Fairbank, FluentConf `28:58`
+
+
 ### 2015
 
 1. [**JavaScript in 2015**](https://www.youtube.com/watch?v=iukBMY4apvI&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Glen Maddern (screencast) `10:32`
