@@ -18,6 +18,7 @@ This is a collection of well-received talks about JavaScript, covering topics su
 
 1. [**React.js for TV UIs**](https://www.youtube.com/watch?v=5sETJs2_jwo): Steve McGuire, Netflix JavaScript Talks `35:02`
 1. [**The Rise of Async JavaScript**](https://www.youtube.com/watch?v=QtgR94Q2pt4&index=51&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Jeremy Fairbank, FluentConf `28:58`
+1. [**An Angular 2 Force Awakens**](https://www.youtube.com/watch?v=WAPQF_GA7Qg): John Papa, ng-conf `20:39`
 
 
 ### 2015
