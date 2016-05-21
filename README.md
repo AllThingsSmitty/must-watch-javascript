@@ -37,6 +37,7 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**Live React: Hot Reloading with Time Travel**](https://www.youtube.com/watch?v=xsSnOQynTHs&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Dan Abramov, ReactEurope `30:40`
 1. [**JavaScript Transformation**](https://www.youtube.com/watch?v=rKuNbEwoQfQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sebastian McKenzie, JSConf.US `20:23`
 1. [**Node.js at Netflix**](https://www.youtube.com/watch?v=p74282nDMX8&list=PLfXiENmg6yyUpIVY9XVOkbdmBPx6PUm9_): Kim Trott, Node.js Interactive `25:17`
+1. [**If You Wish to Learn ES6/2015 From Scratch, You Must First Invent the Universe**](https://www.youtube.com/watch?v=DN4yLZB1vUQlist=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Ashley Williams, JSConf.US `25:48`
 
 
 ### 2014
