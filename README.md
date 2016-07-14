@@ -21,7 +21,7 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**Learning Functional Programming with JavaScript**](https://www.youtube.com/watch?v=e-5obm1G_FY&index=8&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Anjana Vakil, JSUnconf `29:56`
 1. [**Choosing a JavaScript Framework**](https://www.youtube.com/watch?v=6I_GwgoGm1w&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Rob Eisenberg: NDC Oslo `1:01:13`
 1. [**React.js for TV UIs**](https://www.youtube.com/watch?v=5sETJs2_jwo): Steve McGuire, Netflix JavaScript Talks `35:02`
-1. [**The Hitchhiker's Guide to All Things Memory in JavaScript**](https://www.youtube.com/watch?v=AeUCN2lPqL8&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Safia Abdalla JSConf Budapest, `26:16`
+1. [**The Hitchhiker's Guide to All Things Memory in JavaScript**](https://www.youtube.com/watch?v=AeUCN2lPqL8&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Safia Abdalla, JSConf Budapest, `26:16`
 
 ### 2015
 
