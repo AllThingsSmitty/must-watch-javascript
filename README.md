@@ -11,8 +11,6 @@ This is a collection of well-received talks about JavaScript, covering topics su
 
 * [Contribution Guidelines](CONTRIBUTING.md)
 
--
-
 
 ### 2016
 
