@@ -12,6 +12,11 @@ This is a collection of well-received talks about JavaScript, covering topics su
 * [Contribution Guidelines](CONTRIBUTING.md)
 
 
+### 2017
+
+1. [**Immutable Data Structures for Functional JS**](https://www.youtube.com/watch?v=Wo0qiGPSV-s&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Anjana Vakil, JSConf.EU `26:32`
+
+
 ### 2016
 
 1. [**The Rise of Async JavaScript**](https://www.youtube.com/watch?v=QtgR94Q2pt4&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Jeremy Fairbank, FluentConf `28:58`
