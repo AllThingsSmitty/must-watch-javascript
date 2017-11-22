@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://rawgit.com/AllThingsSmitty/must-watch-javascript/master/media/logo.svg" alt="TV icon">
+  <img src="https://rawgit.com/AllThingsSmitty/must-watch-javascript/master/media/logo.svg" width="200" alt="TV icon">
 </p>
 
 # Must-Watch JavaScript
