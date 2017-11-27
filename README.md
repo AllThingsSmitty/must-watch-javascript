@@ -28,6 +28,7 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**React.js for TV UIs**](https://www.youtube.com/watch?v=5sETJs2_jwo): Steve McGuire, Netflix JavaScript Talks `35:02`
 1. [**The Hitchhiker's Guide to All Things Memory in JavaScript**](https://www.youtube.com/watch?v=AeUCN2lPqL8&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Safia Abdalla, JSConf Budapest, `26:16`
 1. [**SVG and GreenSock for Complex Animation**](https://www.youtube.com/watch?v=ZNukcHhpSXg&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sarah Drasner, ForwardJS Summit, `40:16`
+1. [**A JavaScript Starter Kit**](https://www.youtube.com/watch?v=QGCWal_JWek): Cory House, Nodevember, `31:49`
 
 
 ### 2015
