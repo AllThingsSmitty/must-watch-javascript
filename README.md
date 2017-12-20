@@ -16,6 +16,8 @@ This is a collection of well-received talks about JavaScript, covering topics su
 
 1. [**Immutable Data Structures for Functional JS**](https://www.youtube.com/watch?v=Wo0qiGPSV-s&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Anjana Vakil, JSConf.EU `26:32`
 1. [**JavaScript Engines - How Do They Even?**](https://www.youtube.com/watch?v=p-iiEDtpy6I&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Franziska Hinkelmann, JSConf.EU `25:13`
+1. [**Async + Await**](https://www.youtube.com/watch?v=9YkUCxvaLEk&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Wes Bos, dotJS `15:51`
+
 
 ### 2016
 
