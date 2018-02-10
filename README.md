@@ -47,7 +47,7 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**Real World jQuery**](http://jqueryuk.com/2015/videos.php?s=real-world-jquery): Ben Foxall, jQuery UK `26:45`
 1. [**JavaScript State of the Union**](https://www.youtube.com/watch?v=8G2SMVIUNNk&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Geoff Schmidt, Meteor Devshop SF `48:47`
 1. [**Dirty Performance Secrets of HTML5**](https://www.youtube.com/watch?v=t8x40JXUeWA&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Andreas Gal, FluentConf `14:15`
-1. [**You Should Use &lt;Insert Library/Framework&gt;, It's the Bestestest!**](https://www.youtube.com/watch?v=_yCz1TA0EL4&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Paul Lewis, Full Frontal `33:31`
+1. [**You Should Use &lt;Insert Library/Framework&gt;, It's the Bestestest!**](https://www.youtube.com/watch?v=_yCz1TA0EL4&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Paul Lewis, ffconf `33:31`
 1. [**Async Programming in ES7**](https://www.youtube.com/watch?v=lil4YCCXRYc&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Jafar Husain, JSConf.US `35:56`
 1. [**Live React: Hot Reloading with Time Travel**](https://www.youtube.com/watch?v=xsSnOQynTHs&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Dan Abramov, ReactEurope `30:40`
 1. [**JavaScript Transformation**](https://www.youtube.com/watch?v=rKuNbEwoQfQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sebastian McKenzie, JSConf.US `20:23`
@@ -85,7 +85,7 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**Front-End Tools for the Young Developer**](https://www.youtube.com/watch?v=5_nt5qV15po&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Christian Vuerings, SF HTML5 User Group `14:16`
 1. [**Rethinking Best Practices**](https://www.youtube.com/watch?v=DgVS-zXgMTk&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Pete Hunt, JSConf.Asia `40:57`
 1. [**A Tale of Two MVC's**](https://www.youtube.com/watch?v=s1dhXamEAKQ): Yehuda Katz, Golden Gate Ruby Conference `31:06`
-1. [**Building with Web Components Using X-Tags**](https://www.youtube.com/watch?v=dW2ib0bkxGQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Remy Sharp, Full Frontal `32:53`
+1. [**Building with Web Components Using X-Tags**](https://www.youtube.com/watch?v=dW2ib0bkxGQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Angelina Fabbro, ffconf `32:53`
 1. [**Righteous Javascript, Dude!**](https://www.youtube.com/watch?v=2Hc7DBihkh4&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Zach Bruggerman, Cascadia JS `18:15`
 1. [**Transitioning Groupon to NodeJS**](https://www.youtube.com/watch?v=TWVblTpUlxM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sean McCullough, EmpireJS `28:23`
 1. [**Building Modular Web Applications: How To Build a Good Component**](https://www.youtube.com/watch?v=nl2vMiREK9o&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Angelina Fabbro, jQuery Conference Portland `35:02`
