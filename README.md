@@ -12,6 +12,10 @@ This is a collection of well-received talks about JavaScript, covering topics su
 * [Contribution Guidelines](CONTRIBUTING.md)
 
 
+### 2018
+1. [**In the Loop**](https://www.youtube.com/watch?v=cCOL7MC4Pl0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Jake Archibald, JSConf.Asia `35:11`
+
+
 ### 2017
 
 1. [**Immutable Data Structures for Functional JS**](https://www.youtube.com/watch?v=Wo0qiGPSV-s&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Anjana Vakil, JSConf.EU `26:32`
