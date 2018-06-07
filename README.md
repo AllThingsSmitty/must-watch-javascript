@@ -11,6 +11,9 @@ This is a collection of well-received talks about JavaScript, covering topics su
 
 * [Contribution Guidelines](CONTRIBUTING.md)
 
+### 2018
+1. [**javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms) Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
 
 ### 2017
 
