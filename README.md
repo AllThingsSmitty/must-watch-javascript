@@ -11,6 +11,9 @@ This is a collection of well-received talks about JavaScript, covering topics su
 
 * [Contribution Guidelines](CONTRIBUTING.md)
 
+### 2018
+1. [**javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms) Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
 
 ### 2018
 1. [**In the Loop**](https://www.youtube.com/watch?v=cCOL7MC4Pl0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Jake Archibald, JSConf.Asia `35:11`
