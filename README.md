@@ -1,21 +1,3 @@
-<style>
-a:visited {
-  color: #de1a0c;
-}
-
-.markdown-body table {
-  width: 100%;
-}
-
-.markdown-body table td {
-  width: 15%;
-}
-
-.markdown-body table td:first-child {
-  width: 35%;
-}
-</style>
-
 <p align="center">
   <img src="https://rawgit.com/AllThingsSmitty/must-watch-javascript/master/media/logo.svg" width="200" alt="TV icon">
 </p>
