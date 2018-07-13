@@ -3,16 +3,6 @@
   <img src="https://rawgit.com/AllThingsSmitty/must-watch-javascript/master/media/logo.svg" width="200" alt="TV icon">
 </p>
 
-<style>
-.markdown-body table td {
-  width: 15%;
-}
-
-.markdown-body table td:first-child {
-  width: 35%;
-}
-</style>
-
 # Must-Watch JavaScript
 
 This is a collection of well-received talks about JavaScript, covering topics such as ES6, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
