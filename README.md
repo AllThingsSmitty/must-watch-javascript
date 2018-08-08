@@ -15,18 +15,6 @@ This is a collection of well-received talks about JavaScript, covering topics su
 
 ### 2018
 
-<table style="display: table;">
-  <tr>
-    <td>
-    <style>
-    .markdown-body table {
-      display: table;
-    }
-    </style>
-    </td>
-  </tr>
-</table>
-
 | Talk | Speaker | Event | Time |
 |---|---|---|---|
 | [**In the Loop**](https://www.youtube.com/watch?v=cCOL7MC4Pl0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi) |  Jake Archibald | JSConf.Asia | 35:11 |
