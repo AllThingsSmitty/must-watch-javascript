@@ -16,22 +16,15 @@ This is a collection of well-received talks about JavaScript, covering topics su
 ### 2018
 
 <table style="display: table;">
-  <thead>
-    <tr>
-      <th>Talk</th>
-      <th>Speaker</th>
-      <th>Event</th>
-      <th>Time</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>[**In the Loop**](https://www.youtube.com/watch?v=cCOL7MC4Pl0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi)</td>
-      <td>Jake Archibald</td>
-      <td>JSConf.Asia</td>
-      <td>35:11</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td>
+    <style>
+    .markdown-body table {
+      display: table;
+    }
+    </style>
+    </td>
+  </tr>
 </table>
 
 | Talk | Speaker | Event | Time |
