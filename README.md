@@ -13,6 +13,11 @@ This is a collection of well-received talks about JavaScript, covering topics su
 * [Contribution Guidelines](CONTRIBUTING.md)
 
 
+### 2019
+
+1. [**The Future of Web Animation**](https://www.youtube.com/watch?v=hjgni3dXcVE): Sarah Drasner, JSHeroes `31:03`
+
+
 ### 2018
 
 1. [**In the Loop**](https://www.youtube.com/watch?v=cCOL7MC4Pl0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Jake Archibald, JSConf.Asia `35:11`
