@@ -17,6 +17,7 @@ This is a collection of well-received talks about JavaScript, covering topics su
 
 1. [**The Future of Web Animation**](https://www.youtube.com/watch?v=hjgni3dXcVE): Sarah Drasner, JSHeroes `31:03`
 1. [**HTTP Headers for the Responsible Developer**](https://www.youtube.com/watch?v=Mjqf2kkFLy8): Stefan Judis, JSConf EU `23:31`
+1. [**The Cost of Javascript**](https://youtu.be/X9eRLElSW1c): Andy Osmani, PerfMatters Conference `36:55`
 
 
 ### 2018
