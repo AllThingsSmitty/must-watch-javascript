@@ -18,7 +18,7 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**The Future of Web Animation**](https://www.youtube.com/watch?v=hjgni3dXcVE): Sarah Drasner, JSHeroes `31:03`
 1. [**HTTP Headers for the Responsible Developer**](https://www.youtube.com/watch?v=Mjqf2kkFLy8): Stefan Judis, JSConf EU `23:31`
 1. [**Essential JavaScript Debugging Tools for the Modern Detective**](https://www.youtube.com/watch?v=TtsvMRxmfGA): Rebecca Hill, JSConf Budapest `29:18`
-1. [**Interactive Web Animation with SVG**](https://www.youtube.com/watch?v=8p5SDI4TNDc&t=1380s): Cassie Evans, CSSCAMP `32:08`
+1. [**Interactive Web Animation with SVG**](https://www.youtube.com/watch?v=8p5SDI4TNDc): Cassie Evans, CSSCAMP `32:08`
 
 
 ### 2018
