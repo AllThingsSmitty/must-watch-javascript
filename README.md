@@ -24,6 +24,7 @@ This is a collection of well-received talks about JavaScript, covering topics su
 ### 2018
 
 1. [**In the Loop**](https://www.youtube.com/watch?v=cCOL7MC4Pl0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Jake Archibald, JSConf Asia `35:11`
+1. [**Look Mum, No Hands! - Brain Controlled JavaScript**](https://www.youtube.com/watch?v=7KhFO-qCVyg): Charlie Gerard, JSConf EU `24:34`
 1. [**10 Things I Regret About Node.js**](https://www.youtube.com/watch?v=M3BM9TB-8yA&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Ryan Dahl, JSConf EU `26:41`
 1. [**Deep Learning in JS**](https://www.youtube.com/watch?v=SV-cgdobtTA&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Ashi Krishnan, JSConf EU `31:30`
 
