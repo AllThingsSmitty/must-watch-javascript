@@ -102,7 +102,6 @@ This is a collection of well-received talks about JavaScript, covering topics su
 1. [**Rethinking Best Practices**](https://www.youtube.com/watch?v=DgVS-zXgMTk&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Pete Hunt, JSConf Asia `40:57`
 1. [**Righteous Javascript, Dude!**](https://www.youtube.com/watch?v=2Hc7DBihkh4&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Zach Bruggerman, Cascadia JS `18:15`
 1. [**Transitioning Groupon to NodeJS**](https://www.youtube.com/watch?v=TWVblTpUlxM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sean McCullough, EmpireJS `28:23`
-1. [**Building Modular Web Applications: How To Build a Good Component**](https://www.youtube.com/watch?v=nl2vMiREK9o&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Angelina Fabbro, jQuery Conference Portland `35:02`
 1. [**Making JS More Learnable**](https://www.youtube.com/watch?v=4JdS5RHGroQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Pamela Fox, dotJS `28:46`
 1. [**The Web Experience in the Autistic Spectrum**](https://www.youtube.com/watch?v=7nnAYB1mb9E&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Natalia Berdys, JSConf EU `30:37`
 1. [**Return of Inspector Web: Web Components a Year Later**](https://vimeo.com/78899868): Angelina Fabbro, Fronteers `49:44`
@@ -113,7 +112,8 @@ This is a collection of well-received talks about JavaScript, covering topics su
 
 ### 2012
 
-1. | [**A Novel, Efficient Approach to JavaScript Loading**](https://www.youtube.com/watch?v=mGENRKrdoGY&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Malte Ubl and John Hjelmstad, JSConf EU `26:36`
+1. [**A Novel, Efficient Approach to JavaScript Loading**](https://www.youtube.com/watch?v=mGENRKrdoGY&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Malte Ubl and John Hjelmstad, JSConf EU `26:36`
+1. [**WTFJS**](https://www.youtube.com/watch?v=et8xNAc2ic8): Brian Leroux, dotJS `18:26`
 1. [**To Hell with jQuery**](https://www.youtube.com/watch?v=3D1WeSCSkPQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Karolina Szczur, JSConf EU `20:00`
 1. [**Is Node.js Better?**](https://www.youtube.com/watch?v=C5fa1LZYodQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Brian Ford, JSConf US `41:42`
 1. [**Inspector Web and the Mystery of the Shadow DOM**](https://www.youtube.com/watch?v=JNjnv-Gcpnw&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Angelina Fabbro, JSConfEU `28:42`
