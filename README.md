@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://rawgit.com/AllThingsSmitty/must-watch-javascript/master/media/logo.svg" width="200" alt="TV icon">
+  <img src="./assets/img/tv.svg" width="200" alt="TV icon with play button">
 </p>
 
 # Must-Watch JavaScript
