@@ -5,7 +5,7 @@
 
 # Must-Watch JavaScript
 
-This is a collection of well-received talks about JavaScript, covering topics such as ES6/ES2015, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
+This is a collection of well-received talks about JavaScript covering topics such as React, functional programming, performance, frameworks, debugging, tooling, leveling up, and more.
 
 > **Like CSS? Check out [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
