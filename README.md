@@ -13,6 +13,11 @@ This is a collection of well-received talks about JavaScript covering topics suc
 * [Contribution Guidelines](CONTRIBUTING.md)
 
 
+### 2022
+1. [**Debugging async JS**](https://www.youtube.com/watch?v=kFiMq6udQoA): Jenn Creighton, React Miami `24:44`
+1. [**Large Scale Refactoring: From Start to Finish**](https://www.youtube.com/watch?v=tkPHtSUJwMI): Natalia Tepluhina, JSHeroes `27:47`
+
+
 ### 2019
 
 1. [**The Future of Web Animation**](https://www.youtube.com/watch?v=hjgni3dXcVE): Sarah Drasner, JSHeroes `31:03`
