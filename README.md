@@ -74,7 +74,7 @@ This is a collection of well-received talks about JavaScript covering topics suc
 1. [**JavaScript Transformation**](https://www.youtube.com/watch?v=rKuNbEwoQfQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sebastian McKenzie, JSConf US `20:23`
 1. [**Node.js at Netflix**](https://www.youtube.com/watch?v=p74282nDMX8&list=PLfXiENmg6yyUpIVY9XVOkbdmBPx6PUm9_): Kim Trott, Node.js Interactive `25:17`
 1. [**If You Wish to Learn ES6/2015 From Scratch, You Must First Invent the Universe**](https://www.youtube.com/watch?v=DN4yLZB1vUQlist=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Ashley Williams, JSConf US `25:48`
-
+1. [**JavaScript: Understanding the Weird Parts**](https://youtu.be/Bv_5Zv5c-Ts): [Tony Alicea](https://www.linkedin.com/in/tonyalicea) `3;32`
 
 ### 2014
 
