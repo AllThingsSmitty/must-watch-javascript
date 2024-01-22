@@ -13,7 +13,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 Please ensure your pull request adheres to the following guidelines:
 
-* Search open and closed PR's to avoid duplicate suggestions.
+* Search open and closed PRs to avoid duplicate suggestions.
 * Specify why the presentation is a must-watch, e.g., what did you learn from it, how will this be of value to developers?
 * Use the following format: <pre>`[**Talk Title**](link): Presenter, Event` &#96;Duration&#96;</pre>
     - For multiple presenters use a serial comma as appropriate, e.g., Marcia, Jan, and Cindy.
@@ -29,4 +29,4 @@ Thank you for your suggestions!
 
 ## Updating Your Pull Request
 
-Sometimes a maintainer will ask you to edit your pull request before it's included. This is normally due to spelling errors or because your PR didn't match the above guidlines guidelines. [This write-up](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) covers the different ways you can change a pull request
+Sometimes a maintainer will ask you to edit your pull request before it's included. This is normally due to spelling errors or because your PR didn't match the above guidelines guidelines. [This write-up](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) covers the different ways you can change a pull request
