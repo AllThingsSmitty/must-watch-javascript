@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./assets/img/tv.svg" width="200" alt="TV icon with play button">
 </p>
@@ -7,16 +6,14 @@
 
 This is a collection of well-received talks about JavaScript covering topics such as React, functional programming, performance, frameworks, debugging, tooling, leveling up, and more.
 
-> **Like CSS? Check out [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
+> [!TIP] > **Like CSS? Check out [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
-
-* [Contribution Guidelines](CONTRIBUTING.md)
-
+- [Contribution Guidelines](CONTRIBUTING.md)
 
 ### 2022
+
 1. [**Debugging async JS**](https://www.youtube.com/watch?v=kFiMq6udQoA): Jenn Creighton, React Miami `24:44`
 1. [**Large Scale Refactoring: From Start to Finish**](https://www.youtube.com/watch?v=tkPHtSUJwMI): Natalia Tepluhina, JSHeroes `27:47`
-
 
 ### 2019
 
@@ -26,14 +23,12 @@ This is a collection of well-received talks about JavaScript covering topics suc
 1. [**Take on Me, Web Browsers!**](https://www.youtube.com/watch?v=d4gSor3KyIw): Eva Ferreira, JSConf Budapest: `21:59`
 1. [**Interactive Web Animation with SVG**](https://www.youtube.com/watch?v=8p5SDI4TNDc): Cassie Evans, CSSCAMP `32:08`
 
-
 ### 2018
 
 1. [**In the Loop**](https://www.youtube.com/watch?v=cCOL7MC4Pl0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Jake Archibald, JSConf Asia `35:11`
 1. [**Look Mum, No Hands! - Brain Controlled JavaScript**](https://www.youtube.com/watch?v=7KhFO-qCVyg): Charlie Gerard, JSConf EU `24:34`
 1. [**10 Things I Regret About Node.js**](https://www.youtube.com/watch?v=M3BM9TB-8yA&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Ryan Dahl, JSConf EU `26:41`
 1. [**Deep Learning in JS**](https://www.youtube.com/watch?v=SV-cgdobtTA&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Ashi Krishnan, JSConf EU `31:30`
-
 
 ### 2017
 
@@ -42,7 +37,6 @@ This is a collection of well-received talks about JavaScript covering topics suc
 1. [**Async + Await**](https://www.youtube.com/watch?v=9YkUCxvaLEk&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Wes Bos, dotJS `15:51`
 1. [**Advanced Async and Concurrency Patterns in JavaScript**](https://www.youtube.com/watch?v=Qg1SvpIau6U): Kyle Simpson, js.la Meetup `39:42`
 1. [**The Browser Hackers Guide to Instantly Loading Everything**](https://www.youtube.com/watch?v=7vUs5yOuv-o): Addy Osmani, JSConf EU `28:09`
-
 
 ### 2016
 
@@ -55,7 +49,6 @@ This is a collection of well-received talks about JavaScript covering topics suc
 1. [**React.js for TV UIs**](https://www.youtube.com/watch?v=5sETJs2_jwo): Steve McGuire, Netflix JavaScript Talks `35:02`
 1. [**The Hitchhiker's Guide to All Things Memory in JavaScript**](https://www.youtube.com/watch?v=AeUCN2lPqL8&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Safia Abdalla, JSConf Budapest `26:16`
 1. [**SVG and GreenSock for Complex Animation**](https://www.youtube.com/watch?v=ZNukcHhpSXg&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sarah Drasner, ForwardJS Summit `40:16`
-
 
 ### 2015
 
@@ -75,7 +68,6 @@ This is a collection of well-received talks about JavaScript covering topics suc
 1. [**Node.js at Netflix**](https://www.youtube.com/watch?v=p74282nDMX8&list=PLfXiENmg6yyUpIVY9XVOkbdmBPx6PUm9_): Kim Trott, Node.js Interactive `25:17`
 1. [**If You Wish to Learn ES6/2015 From Scratch, You Must First Invent the Universe**](https://www.youtube.com/watch?v=DN4yLZB1vUQlist=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Ashley Williams, JSConf US `25:48`
 
-
 ### 2014
 
 1. [**Enemy of the State**](https://www.youtube.com/watch?v=3ZLlRQJp5Fg&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Amy Palamountain,Forward JS `32:40`
@@ -91,7 +83,6 @@ This is a collection of well-received talks about JavaScript covering topics suc
 1. [**End to End Angular Testing with Protractor**](https://www.youtube.com/watch?v=aQipuiTcn3U&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Julie Ralph, ng-conf `18:46`
 1. [**Async JavaScript at Netflix**](https://www.youtube.com/watch?v=XRYN2xt11Ek&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Jafar Husain, Netflix JavaScript Talks `28:38`
 1. [**Building Realtime Apps with Firebase and Angular**](https://www.youtube.com/watch?v=e4yUTkva_FM&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Anant Narayanan, ng-conf `21:08`
-
 
 ### 2013
 
@@ -110,10 +101,9 @@ This is a collection of well-received talks about JavaScript covering topics suc
 1. [**Making JS More Learnable**](https://www.youtube.com/watch?v=4JdS5RHGroQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Pamela Fox, dotJS `28:46`
 1. [**The Web Experience in the Autistic Spectrum**](https://www.youtube.com/watch?v=7nnAYB1mb9E&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Natalia Berdys, JSConf EU `30:37`
 1. [**Return of Inspector Web: Web Components a Year Later**](https://vimeo.com/78899868): Angelina Fabbro, Fronteers `49:44`
-1. [**Develop High Performance Sites and Apps with JavaScript and HTML5**](https://www.youtube.com/watch?v=oe_hV449viI&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi):  Dr. Doris Chen, HTML5DevConf Meetup `1:01:39`
+1. [**Develop High Performance Sites and Apps with JavaScript and HTML5**](https://www.youtube.com/watch?v=oe_hV449viI&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Dr. Doris Chen, HTML5DevConf Meetup `1:01:39`
 1. [**Building Reflow**](https://www.youtube.com/watch?v=CpG6Ap7qhPw&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Kristofer Joseph, BackboneConf `45:41`
 1. [**Levelling Up in AngularJS**](https://www.youtube.com/watch?v=9TylaL_cRFA&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Alicia Liu, HTML5DevConf `40:31`
-
 
 ### 2012
 
