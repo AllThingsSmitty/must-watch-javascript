@@ -9,7 +9,7 @@ This is a collection of well-received talks about JavaScript covering topics suc
 > [!TIP]
 > **Like CSS? Check out [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
-- [Contributing Guidelines](CONTRIBUTING.md)
+- [Contribution Guidelines](CONTRIBUTING.md)
 
 ### 2022
 
