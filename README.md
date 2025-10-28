@@ -6,10 +6,13 @@
 
 This is a collection of well-received talks about JavaScript covering topics such as React, functional programming, performance, frameworks, debugging, tooling, leveling up, and more.
 
-> [!TIP]
-> **Like CSS? Check out [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
+> [!TIP] > **Like CSS? Check out [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
 - [Contribution Guidelines](CONTRIBUTING.md)
+
+### 2025
+
+1. [**TanStack is Your New Favorite Framework**](https://www.youtube.com/watch?v=uy2WSS1MjGM): Jack Herrington, CascadiaJS `25:49`
 
 ### 2022
 
