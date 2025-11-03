@@ -15,6 +15,10 @@ This is a collection of well-received talks about JavaScript covering topics suc
 
 1. [**TanStack is Your New Favorite Framework**](https://www.youtube.com/watch?v=uy2WSS1MjGM): Jack Herrington, CascadiaJS `25:49`
 
+### 2024
+
+1.[**Encrypting Data in the Browser - Exploring Web Crypto APIs**](https://www.youtube.com/watch?v=cZTHGPn1jdU): Aakansha Doshi, JSConf Budapest `33:31`
+
 ### 2022
 
 1. [**Debugging async JS**](https://www.youtube.com/watch?v=kFiMq6udQoA): Jenn Creighton, React Miami `24:44`
