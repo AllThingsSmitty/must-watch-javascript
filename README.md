@@ -17,7 +17,7 @@ This is a collection of well-received talks about JavaScript covering topics suc
 
 ### 2024
 
-1.[**Encrypting Data in the Browser - Exploring Web Crypto APIs**](https://www.youtube.com/watch?v=cZTHGPn1jdU): Aakansha Doshi, JSConf Budapest `33:31`
+1. [**Encrypting Data in the Browser - Exploring Web Crypto APIs**](https://www.youtube.com/watch?v=cZTHGPn1jdU): Aakansha Doshi, JSConf Budapest `33:31`
 
 ### 2022
 
