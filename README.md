@@ -14,6 +14,7 @@ This is a collection of well-received talks about JavaScript covering topics suc
 ### 2025
 
 1. [**TanStack is Your New Favorite Framework**](https://www.youtube.com/watch?v=uy2WSS1MjGM): Jack Herrington, CascadiaJS `25:49`
+1. [**Learn JavaScript by Building Mario!**](https://www.youtube.com/watch?v=VNs96uQoetw), Ania Kubów, (YouTube Channel) `2:12:04`
 
 ### 2024
 
