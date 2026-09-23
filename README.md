@@ -1,21 +1,26 @@
 <p align="center">
-  <img src="./assets/img/tv.svg" width="200" alt="TV icon with play button">
+  <img src=".github/assets/tv.svg" width="200" alt="TV icon with play button">
 </p>
 
 # Must-Watch JavaScript
 
-This is a collection of well-received talks about JavaScript covering topics such as React, functional programming, performance, frameworks, debugging, tooling, leveling up, and more.
+This is a collection of well-received talks about JavaScript covering topics such as React, functional programming, performance, frameworks, debugging, tooling, and more.
 
 > [!TIP]
-> **Like CSS? Check out [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
+> **Like CSS? Check out [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)!**
 
 - [Contribution Guidelines](CONTRIBUTING.md)
 
+### 2026
+
+1. [**Own the RSC Pipeline: Cache and Compose It Yourself**](https://www.youtube.com/watch?v=6lSH1-ytd7E&t=3s): Manuel Schiller, React Summit `18:23`
+
 ### 2025
 
-1. [**TanStack is Your New Favorite Framework**](https://www.youtube.com/watch?v=uy2WSS1MjGM): Jack Herrington, CascadiaJS `25:49`
+1. [**Fine-Grained Everything**](https://www.youtube.com/watch?v=xSr-gAZ8yeg): Rich Harris, performance.now() 2025 `42:34`
 1. [**JavaScript at the speed of Rust: Oxc**](https://www.youtube.com/watch?v=ofQV3xiBgT8): Jim Dummett, ViteConf 2025 `29:15`
 1. [**Learn JavaScript by Building Mario!**](https://www.youtube.com/watch?v=VNs96uQoetw), Ania Kubów, (YouTube Channel) `2:12:04`
+1. [**TanStack is Your New Favorite Framework**](https://www.youtube.com/watch?v=uy2WSS1MjGM): Jack Herrington, CascadiaJS `25:49`
 
 ### 2024
 
