@@ -82,7 +82,7 @@ This is a collection of well-received talks about JavaScript covering topics suc
 1. [**Live React: Hot Reloading with Time Travel**](https://www.youtube.com/watch?v=xsSnOQynTHs&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Dan Abramov, ReactEurope `30:40`
 1. [**JavaScript Transformation**](https://www.youtube.com/watch?v=rKuNbEwoQfQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Sebastian McKenzie, JSConf US `20:23`
 1. [**Node.js at Netflix**](https://www.youtube.com/watch?v=p74282nDMX8&list=PLfXiENmg6yyUpIVY9XVOkbdmBPx6PUm9_): Kim Trott, Node.js Interactive `25:17`
-1. [**If You Wish to Learn ES6/2015 From Scratch, You Must First Invent the Universe**](https://www.youtube.com/watch?v=DN4yLZB1vUQlist=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Ashley Williams, JSConf US `25:48`
+1. [**If You Wish to Learn ES6/2015 From Scratch, You Must First Invent the Universe**](https://www.youtube.com/watch?v=DN4yLZB1vUQ&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Ashley Williams, JSConf US `25:48`
 
 ### 2014
 
@@ -107,7 +107,7 @@ This is a collection of well-received talks about JavaScript covering topics suc
 1. [**JavaScript Masterclass**](https://www.youtube.com/watch?v=v0TFmdO4ZP0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Angelina Fabbro, JSConf US `22:33`
 1. [**A Comparison of the Two-Way Binding in AngularJS, EmberJS and KnockoutJS**](https://www.youtube.com/watch?v=mVjpwia1YN4&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Marius Gundersen, JSConf EU `19:16`
 1. [**Hacker Way: Rethinking Web App Development at Facebook**](https://www.youtube.com/watch?v=nYkdrAPrdcw&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Tom Occhino, Jing Chen, and Pete Hunt, F8 `44:35`
-1. [**Promises and Generators: Control Flow Utopia**](https://www.youtube.com/watch?v=qbKWsbJ76-slist=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Forbes Lindesay, JSConf EU `31:26`
+1. [**Promises and Generators: Control Flow Utopia**](https://www.youtube.com/watch?v=qbKWsbJ76-s&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Forbes Lindesay, JSConf EU `31:26`
 1. [**How to Rewrite Your JS App (at Least) 10 Times**](https://vimeo.com/77905680): Garann Means, Fronteers `47:45`
 1. [**Front-End Development in Node.js**](https://www.youtube.com/watch?v=icNHLlRazds&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi): Raquel V&eacute;lez, jQuery Conference Portland `34:01`
 1. [**Front-End Tools for the Young Developer**](https://www.youtube.com/watch?v=5_nt5qV15po&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Christian Vuerings, SF HTML5 User Group `14:16`
